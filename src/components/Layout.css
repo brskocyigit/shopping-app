@@ -1,0 +1,25 @@
+.layout {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+<<<<<<< Updated upstream
+=======
+.total-price {
+  text-align: right;
+  margin-right: 50px;
+  margin-bottom: 20px;
+  margin-top: 1rem;
+  font-size: 20px;
+}
+
+.logout-btn{
+  padding: 10px;
+  background:orangered;
+  border:none;
+
+}
+.logout-btn:hover{
+  background-color: rgb(0,6,59);
+}
+>>>>>>> Stashed changes
